@@ -38,3 +38,4 @@ Scale to work on projects of any size and complexity with a 64-bit IDE. Code wit
 AI-powered code completions. Work together in real-time with shared coding sessions. Clone repos, navigate work items, and stage individual lines for commits. Automatically set up CI/CD workflows that can deploy to Azure.
 <a href=""https://visualstudio.microsoft.com/vs/"">Visual Studio website</a>"
 Azure Bicep,,languages & frameworks,false,"<a href=""https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep"">https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep</a>"
+Github actions,,techniques,false,"<a href=""https://github.com/features/actions"">https://github.com/features/actions</a>"
